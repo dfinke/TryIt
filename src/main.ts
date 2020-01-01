@@ -8,7 +8,7 @@ import { octodex_url, octocats } from './octocats'
 async function run() {
     try {
         const rand = Math.floor(Math.random() * octocats.length)
-        console.log(rand)
+        console.log("Hello World")
         // const token = process.env.GITHUB_TOKEN || ''
 
         // const context = (github as any).context
