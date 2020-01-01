@@ -1,0 +1,6 @@
+name: 'Show an Octocat in an Issue'
+description: 'Actions to brighten your day with an Octocat'
+author: 'Edward Thomson'
+runs:
+  using: 'node12'
+  main: 'lib/main.js'
