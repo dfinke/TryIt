@@ -1,6 +1,6 @@
-name: 'Show an Octocat in an Issue'
-description: 'Actions to brighten your day with an Octocat'
-author: 'Edward Thomson'
+name: 'Show Hello World'
+description: 'Simple console log'
+author: 'Doug Finke'
 runs:
   using: 'node12'
   main: 'lib/main.js'
